@@ -1,4 +1,13 @@
-## Hi there 👋
+
+# Who
+I'm AM. 
+I'm from the Canadian Rockies 🍁 and I like Computational Applied Mathematics (so algorithms, computer "solvers", Data, Analytics and Intelligence)  
+My favourite colour is #ffb219
+
+# What
+My current projects are mainly focused around Home Automation and IoT systems but also niche internet data topics (Gacha games and Live-streaming analysis).
+
+
 
 <!--
 **ffb219future/ffb219future** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
