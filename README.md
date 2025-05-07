@@ -1,6 +1,8 @@
 
 # Who
-I'm AM. 
+The M in AMT is short for Meaka (mee-kah) but meaka with an m was taken so it's rneaka now.
+My github repo names change constantly because I am really bad a picking a username :( 
+
 I'm from the Canadian Rockies 🍁 and I like Computational Applied Mathematics (so algorithms, computer "solvers", Data, Analytics and Intelligence)  
 My favourite colour is #ffb219
 
